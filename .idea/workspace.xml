@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05960b3b-e401-4bdb-8a81-b50456b4b1cb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Credentials.py" afterPath="$PROJECT_DIR$/Credentials.py" />
       <change beforePath="$PROJECT_DIR$/first file.py" afterPath="$PROJECT_DIR$/first file.py" />
+      <change beforePath="$PROJECT_DIR$/wordcount.py" afterPath="$PROJECT_DIR$/wordcount.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,24 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="first file.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="first file.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-              <folding>
-                <element signature="e#61#104#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="84">
+              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wordcount.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="wordcount.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wordcount.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="210">
+              <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/Credentials.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="88" lean-forward="false" selection-start-line="0" selection-start-column="88" selection-end-line="0" selection-end-column="88" />
+              <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -61,15 +61,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wordcount.py" />
         <option value="$PROJECT_DIR$/Credentials.py" />
         <option value="$PROJECT_DIR$/first file.py" />
+        <option value="$PROJECT_DIR$/wordcount.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="634" />
+    <option name="y" value="365" />
     <option name="width" value="1069" />
     <option name="height" value="990" />
   </component>
@@ -150,7 +150,7 @@
               <item name="C:" type="cbb8eebc:String" user="C:" />
               <item name="Users" type="cbb8eebc:String" user="Users" />
               <item name="Manoj Raghorte" type="cbb8eebc:String" user="Manoj Raghorte" />
-              <item name="venv" type="cbb8eebc:String" user="venv" />
+              <item name=".PyCharmCE2017.3" type="cbb8eebc:String" user=".PyCharmCE2017.3" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
@@ -158,8 +158,8 @@
               <item name="C:" type="cbb8eebc:String" user="C:" />
               <item name="Users" type="cbb8eebc:String" user="Users" />
               <item name="Manoj Raghorte" type="cbb8eebc:String" user="Manoj Raghorte" />
-              <item name="venv" type="cbb8eebc:String" user="venv" />
-              <item name="Lib" type="cbb8eebc:String" user="Lib" />
+              <item name=".PyCharmCE2017.3" type="cbb8eebc:String" user=".PyCharmCE2017.3" />
+              <item name="system" type="cbb8eebc:String" user="system" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
@@ -167,9 +167,32 @@
               <item name="C:" type="cbb8eebc:String" user="C:" />
               <item name="Users" type="cbb8eebc:String" user="Users" />
               <item name="Manoj Raghorte" type="cbb8eebc:String" user="Manoj Raghorte" />
-              <item name="venv" type="cbb8eebc:String" user="venv" />
-              <item name="Lib" type="cbb8eebc:String" user="Lib" />
-              <item name="site-packages" type="cbb8eebc:String" user="site-packages" />
+              <item name=".PyCharmCE2017.3" type="cbb8eebc:String" user=".PyCharmCE2017.3" />
+              <item name="system" type="cbb8eebc:String" user="system" />
+              <item name="python_stubs" type="cbb8eebc:String" user="python_stubs" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="C:" type="cbb8eebc:String" user="C:" />
+              <item name="Users" type="cbb8eebc:String" user="Users" />
+              <item name="Manoj Raghorte" type="cbb8eebc:String" user="Manoj Raghorte" />
+              <item name=".PyCharmCE2017.3" type="cbb8eebc:String" user=".PyCharmCE2017.3" />
+              <item name="system" type="cbb8eebc:String" user="system" />
+              <item name="python_stubs" type="cbb8eebc:String" user="python_stubs" />
+              <item name="-232594754" type="cbb8eebc:String" user="-232594754" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="C:" type="cbb8eebc:String" user="C:" />
+              <item name="Users" type="cbb8eebc:String" user="Users" />
+              <item name="Manoj Raghorte" type="cbb8eebc:String" user="Manoj Raghorte" />
+              <item name=".PyCharmCE2017.3" type="cbb8eebc:String" user=".PyCharmCE2017.3" />
+              <item name="system" type="cbb8eebc:String" user="system" />
+              <item name="python_stubs" type="cbb8eebc:String" user="python_stubs" />
+              <item name="-232594754" type="cbb8eebc:String" user="-232594754" />
+              <item name="numpy" type="cbb8eebc:String" user="numpy" />
             </path>
           </expand>
           <select />
@@ -198,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.wordcount">
     <configuration name="first file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,9 +240,32 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="wordcount" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordcount.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.first file" />
+      <item index="1" class="java.lang.String" itemvalue="Python.wordcount" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.first file" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.wordcount" />
+        <item index="1" class="java.lang.String" itemvalue="Python.first file" />
       </list>
     </recent_temporary>
   </component>
@@ -242,12 +288,12 @@
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13114753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13114753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -273,9 +319,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#61#104#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -283,9 +327,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#61#104#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -293,9 +335,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#61#104#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -303,9 +343,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#61#104#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -316,10 +354,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordcount.py">
+    <entry file="file://$PROJECT_DIR$/first file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="84">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -327,17 +365,17 @@
     <entry file="file://$PROJECT_DIR$/Credentials.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="88" lean-forward="false" selection-start-line="0" selection-start-column="88" selection-end-line="0" selection-end-column="88" />
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/first file.py">
+    <entry file="file://$PROJECT_DIR$/wordcount.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        <state relative-caret-position="210">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
-            <element signature="e#61#104#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>

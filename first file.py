@@ -2,6 +2,7 @@
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
+from tweepy import API
 
 import Credentials
 
@@ -14,7 +15,7 @@ class Listen(StreamListener):
         with open(self.filename,'a') as write_file:
             write_file.write(a)
 
-        #print (a)
+        print (a)
 
     def on_error(self, b):
         print(b)
@@ -26,6 +27,6 @@ if __name__=="__main__":
     authenticate.set_access_token(Credentials.Access_Token,Credentials.Access_Token_Secret)
 
     streamer = Stream(authenticate,a_Listen)
-    streamer.filter(track=['trump'])
+    streamer.filter(track=['trending'])
     #a_Listen.filename = "tweets.txt"
 
